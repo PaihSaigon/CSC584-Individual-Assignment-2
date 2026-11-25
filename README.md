@@ -113,8 +113,4 @@ The URL may differ depending on the GlassFish configuration.
 
 ![Database Records](screenshots/07_database.png)
 
-## 8. Conclusion
 
-The Student Profile Management System demonstrates the integration of Java Servlets, JavaBeans, JSP, JSTL and JDBC in developing a database-driven web application. The system allows users to register, retrieve and search student profiles through a simple and user-friendly interface.
-
-This project was developed for educational purposes as part of CSC584 Individual Assignment 2.
